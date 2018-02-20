@@ -1,6 +1,6 @@
-var api = "http://207.148.67.239:8183";
+var api = "http://108.61.187.26:8183";
 
-var poolHost = "cn-graft-pool.newbilitypool.com";
+var poolHost = "cn-litecoin-pool.newbilitypool.com";
 
 var email = "support@newbilitypool.com";
 
